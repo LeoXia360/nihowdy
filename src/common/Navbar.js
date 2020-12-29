@@ -26,7 +26,8 @@ class Navbar extends React.Component {
               </IconButton>
               <Button href="https://www.linkedin.com/in/leoxia96/" target="_blank" color="secondary">Work</Button>
               <Button href="https://www.instagram.com/c3pleo/" target="_blank" color="secondary">Personal</Button>
-              <Button href="https://medium.com/@c3pleo" target="_blank" color="secondary">Blog</Button>
+              <Button href="https://medium.com/@c3pleo" target="_blank" color="secondary">Medium</Button>
+              <Button href="https://nihowdycooking.wordpress.com/" target="_blank" color="secondary">Cooking</Button>
             </Toolbar>
           </AppBar>
         </ThemeProvider>
